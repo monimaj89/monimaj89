@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. currently studying on Code Institute's Level 5 Diploma in Web Application Development.
+
 <!--
 **monimaj89/monimaj89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
