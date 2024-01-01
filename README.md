@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I am currently studying on Code Institute's Level 5 Diploma in Web Application Development.
+Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I've just graduated on Code Institute's Level 5 Diploma in Web Application Development.
 
 Contact me on: <br>
 [![Gmail Badge](https://img.shields.io/badge/-mn.majchrowicz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mn.majchrowicz@gmail.com)](mailto:mn.majchrowicz@gmail.com)
