@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I've just graduated on Code Institute's Level 5 Diploma in Web Application Development. Even though I had never had any contact with programming before, I decided to change my career path and learn to program. I always thought that programming was only for people with exceptional mathematical skills. However, I decided to give it a try, and after a 5-day coding challenge, I discovered my passion for delving deeper and deeper into lines of code. Completing the Full Stack Developer course only motivated me to further develop my programming skills and myself.
+Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I've just graduated on Code Institute's Level 5 Diploma in Web Application Development. Even though I had never had any contact with programming before, I decided to change my career path and learn to code. I always thought that programming was only for people with exceptional mathematical skills. However, I decided to give it a try, and after a 5-day coding challenge, I discovered my passion for delving deeper and deeper into lines of code. Completing the Full Stack Developer course only motivated me to further develop my programming skills and myself.
 
 Contact me on: <br>
 [![Gmail Badge](https://img.shields.io/badge/-mn.majchrowicz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mn.majchrowicz@gmail.com)](mailto:mn.majchrowicz@gmail.com)
@@ -29,6 +29,8 @@ Find our more about me: <br>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmonimaj89&countColor=%23263759)
 <!--
 **monimaj89/monimaj89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
