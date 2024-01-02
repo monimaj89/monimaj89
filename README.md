@@ -6,7 +6,7 @@ Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I've just g
 Contact me on: <br>
 [![Gmail Badge](https://img.shields.io/badge/-mn.majchrowicz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mn.majchrowicz@gmail.com)](mailto:mn.majchrowicz@gmail.com)
 
-Find our more about me: <br>
+Find out more about me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-monikamajchrowicz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/monika-majchrowicz-bb0269251/)](https://www.linkedin.com/in/monika-majchrowicz-bb0269251/)
 
 ## :floppy_disk: Technologies:
