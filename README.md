@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-Hi, I am Monika Majchrowicz, a Junior Full-Stack Software Developer. I've just graduated on Code Institute's Level 5 Diploma in Web Application Development. Even though I had never had any contact with programming before, I decided to change my career path and learn to code. I always thought that programming was only for people with exceptional mathematical skills. However, I decided to give it a try, and after a 5-day coding challenge, I discovered my passion for delving deeper and deeper into lines of code. Completing the Full Stack Developer course only motivated me to further develop my programming skills and myself.
+Hi, I am Monika Majchrowicz, enthusiastic early-stage software developer with a Level 5 Diploma in Web App Development. Skilled in HTML, CSS, JavaScript, Python, and Django. Excited to learn and advance in the software development realm. Recognized for professionalism, dedication to top-notch outcomes, and thriving in quick-paced settings with strong problem-solving skills.
 
 Contact me on: <br>
 [![Gmail Badge](https://img.shields.io/badge/-mn.majchrowicz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mn.majchrowicz@gmail.com)](mailto:mn.majchrowicz@gmail.com)
